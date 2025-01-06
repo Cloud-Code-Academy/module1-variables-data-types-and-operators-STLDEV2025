@@ -23,7 +23,7 @@
 
 public with sharing class VariablesDataTypesOperators {
     /**
-     * Question 1
+     * Question 1 
      * Performs addition of two numbers.
      * If either of the numbers is null, return null.
      * Example: addition(1, 2) should return 3
