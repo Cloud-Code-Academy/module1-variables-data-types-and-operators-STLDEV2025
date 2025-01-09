@@ -214,7 +214,7 @@ public with sharing class VariablesDataTypesOperators {
         Integer sumOfNum = a + b + c;
         Integer totalOfNum = 3;
         Integer aveOfNum = sumOfNum / totalOfNum;
-        return aveOfNum; // Replace null with the variable you used to store the result
+        return aveOfNum; // Replace null with the variable you used to store the result.
     }
 
     /**
