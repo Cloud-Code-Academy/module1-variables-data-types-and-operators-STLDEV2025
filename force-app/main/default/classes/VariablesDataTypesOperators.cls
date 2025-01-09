@@ -29,7 +29,7 @@ public with sharing class VariablesDataTypesOperators {
      * Example: addition(1, 2) should return 3
      * @param a The first number.
      * @param b The second number.
-     * @return The sum of the two numbers, or null if either number is null.
+     * @return The sum of the two numbers, or null if either number is null
      */
     public static Integer addition(Integer a, Integer b) {
         Integer sum = a + b;
