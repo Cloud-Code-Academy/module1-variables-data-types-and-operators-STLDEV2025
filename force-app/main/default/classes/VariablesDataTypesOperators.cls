@@ -208,7 +208,7 @@ public with sharing class VariablesDataTypesOperators {
      * @param a The first number.
      * @param b The second number.
      * @param c The third number.
-     * @return The average of the three numbers.
+     * @return The average of the three numbers
      */
     public static Double averageOfThreeNumbers(Integer a, Integer b, Integer c) {
         Integer sumOfNum = a + b + c;
